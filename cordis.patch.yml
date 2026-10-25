@@ -1,0 +1,4 @@
+# dsh bundle layer: mount the workspace-switch-cost plugin (lib/index.js).
+- insert:
+    - id: workspace-switch-cost
+      name: '@bushizhanghan/dsh-workspace-switch-cost'
